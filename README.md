@@ -1,4 +1,4 @@
-# Coveo Backend Coding Challenge
+# IVM Backend Coding Challenge
 (inspired by https://github.com/busbud/coding-challenge-backend-c)
 
 ## Requirements
